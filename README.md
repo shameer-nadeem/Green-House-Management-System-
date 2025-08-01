@@ -1,4 +1,4 @@
-# Green-House-Management-System-
+#Green-House-Management-System-
 
 
 • Add a new plant to your collection.(in its dedicated greenhouse)
